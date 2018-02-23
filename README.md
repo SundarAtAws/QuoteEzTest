@@ -1,1 +1,3 @@
 # QuoteEzTest
+#export GOOGLE_APPLICATION_CREDENTIALS="[PATH]"
+# PATH = 
